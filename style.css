@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    color: white;
+    background-color: #212529;
+    text-align: center;
+    padding: 48px;
+    line-height: 96px;
+}
+
+.hang-1 {
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+    /*align đối tượng này vào giữa đổi tượng kia*/
+    align-items: center;
+    /*align các đối tượng ra giữa dòng*/
+    margin: 64px auto;
+}
+
+.chu {
+    width: 500px;
+}
+
+p.mota {
+    font-family: 'Lato', sans-serif;
+}
+
+h3.tieude3 {font-family: 'Catamaran',sans-serif;font-size: 56px;font-weight: 300;}
+
+Button.nut1 {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 1px;
+    background-color: #c45962;
+    padding: 24px 48px;
+    border-radius: 37px;
+    margin-top: 80px;
+    border: none
+}
+
+h2.tieude2 {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 64px;
+    font-weight: 800;
+}
+
+h1.tieude1 {
+    font-family: 'catamaran', sans-serif;
+    font-size: 96px;
+    font-weight: 800;
+}
+
+header {
+    height:  684px;
+    background-image: url(241190339_2080053372147930_5731512870134101489_n.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.anh{
+        width: 500px;
+        border-radius: 50%;
+    }
